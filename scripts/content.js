@@ -2,11 +2,8 @@ var previousURL = ''
 
 setInterval(() => {
     if(previousURL != document.URL) {
-        console.log('page changed!')
         if(document.URL == 'https://app.sowesign.com/student/next-course') {
-            console.log('you are on the right page');
-        } else {
-            console.log('nah not this one');
+            document.body.innerHTML = '<div>Hello :)</div>' + document.body.innerHTML
         }
         previousURL = document.URL;
     }
