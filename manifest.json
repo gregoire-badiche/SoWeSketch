@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "SoWeSketch",
+    "description": "Une extention Chrome pour signer avec des images sur SoWeSign",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "js": [
+                "scripts/content.js"
+            ],
+            "matches": [
+                "http://app.sowesign.com/*",
+                "https://app.sowesign.com/*"
+            ]
+        }
+    ]
+}
