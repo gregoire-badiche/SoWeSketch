@@ -54,6 +54,7 @@ Je metterai ici mon Lydia bientôt
 - Nous utilisons principalement JavaScript pour ce projet.
 - Suivez les meilleures pratiques JavaScript modernes.
 - Les commentaires sur le code sont appréciés.
+- les classes et les ids injectées dans la page HTML doivent commencer par `wtf-`
 
 #### Messages de validation
 
