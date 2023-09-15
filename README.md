@@ -1,6 +1,6 @@
 # SoWeSketch
 
-Une extention Chrome pour signer avec des images sur SoWeSign
+Une extention Chrome pour signer avec des images sur [SoWeSign](https://app.sowesign.com/login)
 
 ## Features
 
