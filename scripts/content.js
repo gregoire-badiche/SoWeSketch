@@ -14,7 +14,8 @@ var context;
 
 
 const main = () => {
-    document.body.innerHTML = '<div><input type="file" id="wtf-fileelem" accept="image/png" style="display:none;" /><button id="wtf-fileselect">Select file</button></div><canvas width="200" height="150" id="cv"></canvas>' + document.body.innerHTML;
+    
+    document.getElementsByClassName('height-100 little-text grey italic space-around')[0].innerHTML += '<div><input type="file" id="wtf-fileelem" accept="image/png" style="display:none;" /><button id="wtf-fileselect">Sign with an image</button><canvas width="200" height="150" id="cv"></canvas></div>';
     document.getElementById('wtf-fileselect').onclick = _e => {
         document.getElementById('wtf-fileelem').click();
     }
