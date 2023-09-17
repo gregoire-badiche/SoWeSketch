@@ -2,8 +2,6 @@
 
 Une extention Chrome pour signer avec des images sur [SoWeSign](https://app.sowesign.com/login) 👊 💪 ✏️
 
-----
-
 ❗❗ Je ne suis pas responsable de l'utilisation que vous en faites, et des conséquences qui peuvent en découler ❗❗
 
 ## Features
@@ -27,9 +25,9 @@ Le Chrome Store demande 5$ pour ajouter son extension au Chrome Store, et j'ai p
 8. Ta-daaaa !
 
 ## Comment participer ?
-
+  
 ### Soutenir financièrement
-
+  
 Je metterai ici mon Lydia bientôt
 
 ### Signaler des bugs
@@ -62,9 +60,9 @@ Je metterai ici mon Lydia bientôt
 
 #### Messages de validation
 
-Écrivez des messages de commit Git clairs et significatifs (ils peuvent être drôles, mais soyez clairs aussi)
-Ce n'est pas idéal d'avoir quelque chose comme « Augmentation du troll de 500 % », mais vous pourriez dire « Dessin en couleur, augmentation du troll de 500 % »
-J'ai juste besoin de savoir ce que vous avez fait
+Écrivez des messages de commit Git clairs et significatifs (ils peuvent être drôles, mais soyez clairs aussi). 
+Ce n'est pas idéal d'avoir quelque chose comme « Augmentation du troll de 500% », mais vous pourriez dire « Dessin en couleur, augmentation du troll de 500% ». 
+J'ai juste besoin de savoir ce que vous avez fait. 
 
 #### Pull requests
 
@@ -77,3 +75,9 @@ En contribuant à ce projet, vous acceptez que vos contributions soient sous lic
 ## Des questions ?
 
 N'hésitez pas à contacter les responsables du projet si vous avez des questions ou des préoccupations.
+
+## Remerciements
+
+Merci à Varoujan pour son support émotionel, et à David pour son WIFI haute performance.
+
+Développé avec le ❤️ par Grégoire
