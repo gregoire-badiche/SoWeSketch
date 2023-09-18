@@ -62,9 +62,9 @@ Je metterai ici mon Lydia bientôt
 
 #### Messages de validation
 
-Écrivez des messages de commit Git clairs et significatifs (ils peuvent être drôles, mais soyez clairs aussi). 
-Ce n'est pas idéal d'avoir quelque chose comme « Augmentation du troll de 500% », mais vous pourriez dire « Dessin en couleur, augmentation du troll de 500% ». 
-J'ai juste besoin de savoir ce que vous avez fait. 
+Écrivez des messages de commit Git clairs et significatifs (ils peuvent être drôles, mais soyez clairs aussi).
+Ce n'est pas idéal d'avoir quelque chose comme « Augmentation du troll de 500% », mais vous pourriez dire « Dessin en couleur, augmentation du troll de 500% ».
+J'ai juste besoin de savoir ce que vous avez fait.
 
 #### Pull requests
 
