@@ -65,12 +65,10 @@ const main = () => {
     // Note: je ne sais pas pourquoi je change de langue
 
     const draw = url => {
-        console.log(1);
         var image = new Image();
         image.src = url;
 
         image.onload = _e => {
-            console.log(2);
             // Centers the image
 
             // Canvas dimensions
@@ -117,7 +115,6 @@ const main = () => {
             var pngImage = new Image();
             pngImage.src = pngDataUrl;
             pngImage.onload = _e => {
-                console.log(3);
                 context.drawImage(pngImage, 0, 0);
             }
         }
