@@ -32,7 +32,7 @@ const MODAL_TEXT = `
     <div style="grid-column: 3; grid row: 2;">Utiliser une image du Web</div>
     <input style="grid-column: 3; grid-row: 3; border: 1px solid #888;" type="text" placeholder="Lien de l'internet des abonnés" id="wtf-file-link">
 </div>
-<input type="file" id="wtf-file-elem" accept="image/png" style="display:none;" />
+<input type="file" id="wtf-file-elem" accept="image/*" style="display:none;" />
 `;
 
 // Fonction principale

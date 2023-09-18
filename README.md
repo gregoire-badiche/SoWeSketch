@@ -4,6 +4,8 @@ Une extention Chrome pour signer avec des images sur [SoWeSign](https://app.sowe
 
 ❗❗ Je ne suis pas responsable de l'utilisation que vous en faites, et des conséquences qui peuvent en découler ❗❗
 
+![No SWS ?](images/no-sws.png)
+
 ## Features
 
 - intégration automatique dans le site de SoWeSign
@@ -78,6 +80,6 @@ N'hésitez pas à contacter les responsables du projet si vous avez des question
 
 ## Remerciements
 
-Merci à Varoujan pour son support émotionel, et à David pour son WIFI haute performance.
+Merci à Varoujan pour son support émotionel, à Linus pour ses memes de qualité, et à David pour son WIFI haute performance.
 
 Développé avec le ❤️ par Grégoire
