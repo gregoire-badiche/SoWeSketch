@@ -12,7 +12,7 @@ setInterval(() => {
     // L'URL a changé ?
     if (previousURL != document.URL) {
         // L'URL est le bon ?
-        if (document.URL == 'https://app.sowesign.com/student/signature') {
+        if (document.URL == 'https://app.sowesign.com/student/signature' || document.URL == 'https://app.sowesign.com/student/recoveries') {
             main();
         }
         // L'URL a changé, on change aussi previousURL pour ne pas exécuter deux fois la fonction
